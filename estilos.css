@@ -1,0 +1,30 @@
+.bloque{
+    width: 50%;
+}
+
+.flex{
+    display:flex;
+}
+
+.margenesform{
+    margin:10px 0px 10px 0px;
+}
+
+.otrobloque{
+    display:inline-block;
+}
+.tamañocompleto{
+    display:inline;
+}
+
+body{
+    font-family:arial;
+}
+    
+
+
+.margenderecho{
+    margin-right:300px;
+}
+
+
